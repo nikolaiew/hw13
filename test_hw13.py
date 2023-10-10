@@ -9,3 +9,4 @@ def test_positive():
 def test_negative():
     assert (not square(3) < 9) and (not square(3) > 9)
 
+
